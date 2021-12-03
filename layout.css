@@ -1,0 +1,59 @@
+
+  body {
+  background-color: aqua;
+  font-family: 'Brush Script MT', cursive; 
+  padding: 5px 25px;
+  font-size: 20px;
+  margin: 55;
+  color: #ff0500;
+}
+
+.nome{
+   background-color:black;
+   text-align: center;
+   color : red;
+   font-family: 'Brush Script MT', cursive; 
+   font-size: 40px;
+   
+}
+
+.Luiz {
+   background-color:black;
+   text-align: center;
+   color : white;
+   font-family: 'Brush Script MT', cursive; 
+   font-size: 35px;;
+}
+
+.curso {
+   background-color:black;
+   text-align: center;
+   color : red;
+   font-family: 'Brush Script MT', cursive; 
+   font-size: 40px;;
+}
+
+.analise {
+   background-color:black;
+   text-align: center;
+   color : red;
+   font-family: 'Brush Script MT', cursive; 
+   font-size: 35px;;
+}
+
+
+.area {
+   background-color:black;
+   text-align: center;
+   color : red;
+  font-family: 'Brush Script MT', cursive; 
+   font-size: 35px;;
+}
+
+.desenvolvimento{
+   background-color:black;
+   text-align: center;
+   color : white;
+   font-family: 'Brush Script MT', cursive; 
+   font-size: 35px;;
+}
